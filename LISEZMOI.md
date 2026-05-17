@@ -6,6 +6,10 @@ Les sous-modules listés dans ce dépôt de code correspondent aux applications 
 
 Vous pouvez aussi consulter [les autres packs de projets](https://github.com/DeveloppeurPascal?tab=repositories&q=pack&type=&language=&sort=) de [mon compte GitHub](https://github.com/DeveloppeurPascal) ou [celui](https://github.com/DeveloppeurPascal/_AllProjects) qui les contient tous.
 
+## Utiliser ces logiciels et applications mobiles
+
+Consultez [le site de Olf Software](https://olfsoftware.fr) pour voir la liste des logiciels et applications mobiles disponibles, sur quelles plateformes, les télécharger et les acheter quand ils sont en vente.
+
 ## Présentations et conférences
 
 ### Twitch

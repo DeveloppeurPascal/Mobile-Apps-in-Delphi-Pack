@@ -6,6 +6,10 @@ The submodules listed in this code repository correspond to the mobile applicati
 
 You can also consult the [other project packs](https://github.com/DeveloppeurPascal?tab=repositories&q=pack&type=&language=&sort=) in [my GitHub account](https://github.com/DeveloppeurPascal), or [the one](https://github.com/DeveloppeurPascal/_AllProjects) that contains them all.
 
+## Use these softwares and mobile apps
+
+Visit [the Olf Software website](https://olfsoftware.fr) to see the list of softwares and mobile apps available, on which platforms, download them and buy them when they're on sale.
+
 ## Talks and conferences
 
 ### Twitch
