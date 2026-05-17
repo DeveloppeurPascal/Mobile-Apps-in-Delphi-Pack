@@ -4,7 +4,7 @@
 
 Les sous-modules listés dans ce dépôt de code correspondent aux applications mobiles que je dévelope en Delphi. Utilisez-le comme une liste plutôt que de vous baser dessus pour les télécharger. Privilégiez le téléchargement de chaque dépôt de façon indépendante pour ne pas avoir de soucis avec leurs dépendances également sous forme de sous modules.
 
-Vous pouvez aussi consulter [les autres packs de projets](https://github.com/DeveloppeurPascal?tab=repositories&q=pack&type=&language=&sort=) de [mon compte GitHub](https://github.com/DeveloppeurPascal) ou [celui](https://github.com/DeveloppeurPascal/_AllProjects) qui les contient tous.
+Vous pouvez aussi consulter [mes autres packs de projets](https://github.com/DeveloppeurPascal?tab=repositories&q=pack&type=&language=&sort=) ou [celui qui les contient tous](https://github.com/DeveloppeurPascal/_AllProjects).
 
 ## Utiliser ces logiciels et applications mobiles
 

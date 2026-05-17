@@ -4,7 +4,7 @@
 
 The submodules listed in this code repository correspond to the mobile applications I develop in Delphi. Use it as a list rather than relying on it to download them. It is best to download each repository independently to avoid issues with their dependencies, which are also in the form of submodules.
 
-You can also consult the [other project packs](https://github.com/DeveloppeurPascal?tab=repositories&q=pack&type=&language=&sort=) in [my GitHub account](https://github.com/DeveloppeurPascal), or [the one](https://github.com/DeveloppeurPascal/_AllProjects) that contains them all.
+You can also consult [my other projects packs](https://github.com/DeveloppeurPascal?tab=repositories&q=pack&type=&language=&sort=) or [the full projects list](https://github.com/DeveloppeurPascal/_AllProjects).
 
 ## Use these softwares and mobile apps
 
